@@ -2,7 +2,7 @@
 
 Die erste eigene IoT App: Avnet IoT Hands-On Workshop
 
-Topics covered: Raspberry Pi, Node-RED, Watson Internet of Things Platform, Cloudant NoSQL Database, Twitter, Twilio, and Weather Company Data for IBM Bluemix.
+Behandelte Themen: Raspberry Pi, Node-RED, Watson Internet of Things Platform, Cloudant NoSQL Database, Twitter, Twilio, und Wetterdaten für IBM Bluemix.
 
 In diesem Workshop werden wir ein Raspberry Pi und den passenden SenseHat verwenden um eine Verbindung zu IBM Bluemix und der Watson IoT Platform herzustellen. 
 Wir werden die Temperatur über das SenseHat abfragen und Daten an die Watson IoT-Plattform senden. 
